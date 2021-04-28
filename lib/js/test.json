@@ -1,0 +1,115 @@
+[
+    {
+        "userId": "1",
+        "firstName": "Bob",
+        "lastName": "Bobsky",
+        "age": "35",
+        "yearsOfExperience": "10",
+        "location": "Skopje",
+        "address": "Franklin Roozevelt br.2",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+
+    {
+        "userId": "2",
+        "firstName": "Ivana",
+        "lastName": "Ivanovska",
+        "age": "34",
+        "yearsOfExperience": "10",
+        "location": "Skopje",
+        "address": "bul.Boris Trajkovski br.12",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+
+    {
+        "userId": "3",
+        "firstName": "Ana",
+        "lastName": "Anevska",
+        "age": "27",
+        "yearsOfExperience": "4",
+        "location": "Skopje",
+        "address": "bul.Jane Sandanski br.10",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+
+    {
+        "userId": "4",
+        "firstName": "Ljube",
+        "lastName": "Ljupcovski",
+        "age": "33",
+        "yearsOfExperience": "8",
+        "location": "Skopje",
+        "address": "ul.Meckin Kamen br.18",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+    {
+        "userId": "5",
+        "firstName": "Petko",
+        "lastName": "Petkovski",
+        "age": "43",
+        "yearsOfExperience": "15",
+        "location": "Skopje",
+        "address": "ul.Gjorce Petrov br.23",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+    {
+        "userId": "6",
+        "firstName": "Bosko",
+        "lastName": "Boskovski",
+        "age": "28",
+        "yearsOfExperience": "5",
+        "location": "Skopje",
+        "address": "ul.Leninova br.3",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+    {
+        "userId": "7",
+        "firstName": "Zdrave",
+        "lastName": "Zdraveski",
+        "age": "53",
+        "yearsOfExperience": "20",
+        "location": "Skopje",
+        "address": "ul.Ivo Lola Ribar br.2",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+    {
+        "userId": "8",
+        "firstName": "John",
+        "lastName": "Johnson",
+        "age": "38",
+        "yearsOfExperience": "11",
+        "location": "Skopje",
+        "address": "bul.Ilindenska br.10",
+        "workingHours": "08:00-16:00",
+        "rating": "4"
+    },
+    {
+        "userId": "9",
+        "firstName": "Greg",
+        "lastName": "Gregsky",
+        "age": "40",
+        "yearsOfExperience": "13",
+        "location": "Skopje",
+        "address": "bul.Kliment Ohridksi br.5",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    },
+    {
+        "userId": "10",
+        "firstName": "Jill",
+        "lastName": "Jillsky",
+        "age": "27",
+        "yearsOfExperience": "6",
+        "location": "Skopje",
+        "address": "bul.Partizanski Odredi br.2",
+        "workingHours": "08:00-16:00",
+        "rating": "5"
+    }
+]
