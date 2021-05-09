@@ -12,7 +12,176 @@
 <body>
 
     <!-- Content-->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mainNavDiv">
+        <a class="navbar-brand" href="#">
+            <img src="https://psyentconsultancy.com/wp-content/uploads/2020/07/Psyent-Logo-062020-08.png" id="logoImg" alt="">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+        <div class="collapse navbar-collapse navMenu" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto ">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">About us</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Services
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Recruitment & Selection</a>
+                <a class="dropdown-item" href="#">Psychological Assessments</a>
+                <a class="dropdown-item" href="#">Training & Development</a>
+                <a class="dropdown-item" href="#">HR Consultancy</a>
+              </div>
+            </li>
+          </ul>
+            <button class="btn btn-outline-success my-2 my-sm-0" id="btnContactUs" type="submit">Contact us</button>
+        </div>
+      </nav>
 
+
+    <div id="findMentorDiv">
+        <h2 id="mentorHeading">Find a mentor</h2>
+
+        <div class="filter">
+            <h5>Skills</h5>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills1">
+                <label class="custom-control-label" for="skills1">Advice on funding</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills2">
+                <label class="custom-control-label" for="skills2">Bootstrapping</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills3">
+                <label class="custom-control-label" for="skills3">Building a team</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills4">
+                <label class="custom-control-label" for="skills4">Content marketing</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills5">
+                <label class="custom-control-label" for="skills5">Conversion rate optimisation</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills6">
+                <label class="custom-control-label" for="skills6">Copywriting</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills7">
+                <label class="custom-control-label" for="skills7">Customer success</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills8">
+                <label class="custom-control-label" for="skills8">Data science</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="skills9">
+                <label class="custom-control-label" for="skills9">Design / UX</label>
+            </div>
+        </div>
+        <div class="filter">
+            <h5>Times Available</h5>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable1">
+                <label class="custom-control-label" for="timeAvailable1">00:00 - 06:00</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable2">
+                <label class="custom-control-label" for="timeAvailable2">06:00 - 12:00</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable3">
+                <label class="custom-control-label" for="timeAvailable3">12:00 - 18:00</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable4">
+                <label class="custom-control-label" for="timeAvailable4">18:00 - 24:00</label>
+            </div>
+        </div>
+        <div class="filter">
+            <h5>Days Available</h5>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysMon">
+                <label class="custom-control-label" for="daysMon">Monday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysTue">
+                <label class="custom-control-label" for="daysTue">Tuesday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysWed">
+                <label class="custom-control-label" for="daysWed">Wednesday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysThu">
+                <label class="custom-control-label" for="daysThu">Thursday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysFri">
+                <label class="custom-control-label" for="daysFri">Friday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysSat">
+                <label class="custom-control-label" for="daysSat">Saturday</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="daysSun">
+                <label class="custom-control-label" for="daysSun">Sunday</label>
+            </div>
+        </div>
+        <div class="filter">
+            <h5>Sessions Availabilily</h5>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="session1">
+                <label class="custom-control-label" for="session1">60 min</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="session2">
+                <label class="custom-control-label" for="session2">30 min</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="session3">
+                <label class="custom-control-label" for="session3">15 min</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="session4">
+                <label class="custom-control-label" for="session4">Monthly coaching</label>
+            </div>
+        </div>
+        <div class="filter">
+            <h5>Price/Hour</h5>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="free">
+                <label class="custom-control-label" for="free">Free</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="price1">
+                <label class="custom-control-label" for="price1">< 25$</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="price2">
+                <label class="custom-control-label" for="price2">25$ - 50$</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="price3">
+                <label class="custom-control-label" for="price3">50$ - 100$</label>
+            </div>
+            <div class="custom-control custom-switch">
+                <input type="checkbox" class="custom-control-input" id="price4">
+                <label class="custom-control-label" for="price4">100$ +</label>
+            </div>
+        </div>
+        
+    
+    </div>
     
 
     <!--End Content-->
