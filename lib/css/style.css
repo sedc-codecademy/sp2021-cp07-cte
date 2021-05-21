@@ -31,9 +31,21 @@ body {
     font-size: 0.9rem;
     box-shadow: 2px 2px 15px  rgb(110, 110, 110);
 }
-.navbar{
-    
+.navbar-nav{
+	position: relative;
+	background-color: #f8f9fa;
+    z-index: 9;
 }
+
+.navMenu.collapse {
+  background-color: #f8f9fa;
+  z-index: 9;
+}
+
+.navMenu.collapse #btnContactUs {
+  margin-left: 10px;
+}
+
 .navbar-nav > li{
     padding-left:10px;
     padding-right:10px;
@@ -107,6 +119,18 @@ body {
       margin-bottom:25px;
       padding-top:25px;
       font-size:24px;
+    }
+	
+	.dropdown-menu {
+      margin-top: -10px;
+      background-color: #f8f9fa;
+    }
+
+    #btnContactUs {
+      color: #fff;
+      font-size: 14px;
+      margin: 0 0 10px;
+      padding: 11px 30px;
     }
   }
   
