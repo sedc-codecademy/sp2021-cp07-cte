@@ -7,7 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="stylesheet" href="./lib/css/style.css" type="text/css" />
+    <link rel="stylesheet" href="lib/css/style.css" type="text/css" />
     <title>Mentors - Psyent</title>
 </head>
 <body>
@@ -50,115 +50,115 @@
     <div id="findMentorDiv">
         <h2 id="mentorHeading">Find a mentor</h2>
 
-        <div class="filter">
+        <div class="filter skillsFilter">
             <h5>Skills</h5>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills1">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills1" value="Advice_On_Funding">
                 <label class="custom-control-label" for="skills1">Advice on funding</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills2">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills2" value="Bootstrapping">
                 <label class="custom-control-label" for="skills2">Bootstrapping</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills3">
+                <input type="checkbox"  name="skills" class="custom-control-input" id="skills3" value="Building_A_Team">
                 <label class="custom-control-label" for="skills3">Building a team</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills4">
+                <input type="checkbox" name="skills"  class="custom-control-input" id="skills4" value="Content_Marketing">
                 <label class="custom-control-label" for="skills4">Content marketing</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills5">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills5" value="Conversion_Rate_Optimisation">
                 <label class="custom-control-label" for="skills5">Conversion rate optimisation</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills6">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills6" value="Copywriting">
                 <label class="custom-control-label" for="skills6">Copywriting</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills7">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills7" value="Costumer_Success">
                 <label class="custom-control-label" for="skills7">Customer success</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills8">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills8" value="Data_Science">
                 <label class="custom-control-label" for="skills8">Data science</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="skills9">
+                <input type="checkbox" name="skills" class="custom-control-input" id="skills9" value="Design/UX">
                 <label class="custom-control-label" for="skills9">Design / UX</label>
             </div>
         </div>
-        <div class="filter">
+        <div class="filter  timeAvailableFilter">
             <h5>Times Available</h5>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="timeAvailable1">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable1" name="timeAvailable" value="00:00 - 06:00">
                 <label class="custom-control-label" for="timeAvailable1">00:00 - 06:00</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="timeAvailable2">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable2" name="timeAvailable" value="06:00 - 12:00">
                 <label class="custom-control-label" for="timeAvailable2">06:00 - 12:00</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="timeAvailable3">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable3" name="timeAvailable" value="12:00 - 18:00">
                 <label class="custom-control-label" for="timeAvailable3">12:00 - 18:00</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="timeAvailable4">
+                <input type="checkbox" class="custom-control-input" id="timeAvailable4" name="timeAvailable" value="18:00 - 24:00">
                 <label class="custom-control-label" for="timeAvailable4">18:00 - 24:00</label>
             </div>
         </div>
-        <div class="filter">
+        <div class="filter daysAvailableFilter">
             <h5>Days Available</h5>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysMon">
+                <input type="checkbox" class="custom-control-input" id="daysMon" name="daysAvailable" value="Monday">
                 <label class="custom-control-label" for="daysMon">Monday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysTue">
+                <input type="checkbox" class="custom-control-input" id="daysTue" name="daysAvailable" value="Tuesday">
                 <label class="custom-control-label" for="daysTue">Tuesday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysWed">
+                <input type="checkbox" class="custom-control-input" id="daysWed" name="daysAvailable" value="Wednesday">
                 <label class="custom-control-label" for="daysWed">Wednesday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysThu">
+                <input type="checkbox" class="custom-control-input" id="daysThu" name="daysAvailable" value="Thursday">
                 <label class="custom-control-label" for="daysThu">Thursday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysFri">
+                <input type="checkbox" class="custom-control-input" id="daysFri" name="daysAvailable" value="Friday">
                 <label class="custom-control-label" for="daysFri">Friday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysSat">
+                <input type="checkbox" class="custom-control-input" id="daysSat" name="daysAvailable" value="Saturday">
                 <label class="custom-control-label" for="daysSat">Saturday</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="daysSun">
+                <input type="checkbox" class="custom-control-input" id="daysSun" name="daysAvailable" value="Sunday">
                 <label class="custom-control-label" for="daysSun">Sunday</label>
             </div>
         </div>
-        <div class="filter">
+        <div class="filter sessionAvailabilityFilter">
             <h5>Sessions Availabilily</h5>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="session1">
+                <input type="checkbox" class="custom-control-input" id="session1" value="60" name="session">
                 <label class="custom-control-label" for="session1">60 min</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="session2">
+                <input type="checkbox" class="custom-control-input" id="session2" value="30" name="session">
                 <label class="custom-control-label" for="session2">30 min</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="session3">
+                <input type="checkbox" class="custom-control-input" id="session3" value="15" name="session">
                 <label class="custom-control-label" for="session3">15 min</label>
             </div>
             <div class="custom-control custom-switch">
-                <input type="checkbox" class="custom-control-input" id="session4">
+                <input type="checkbox" class="custom-control-input" id="session4" value="Monthly" name="session">
                 <label class="custom-control-label" for="session4">Monthly coaching</label>
             </div>
         </div>
-        <div class="filter">
+        <div class="filter priceFilter">
             <h5>Price/Hour</h5>
             <div class="custom-control custom-switch">
                 <input type="checkbox" class="custom-control-input" id="free">
@@ -166,13 +166,13 @@
             </div>
             <div class="custom-control custom-switch">
                 <input type="checkbox" class="custom-control-input" id="price1">
-                <label class="custom-control-label" for="price1">< 25$</label>
+                <label class="custom-control-label" for="price1"> 25$</label>
             </div>
             <div class="custom-control custom-switch">
                 <input type="checkbox" class="custom-control-input" id="price2">
                 <label class="custom-control-label" for="price2">25$ - 50$</label>
             </div>
-            <div class="custom-control custom-switch">
+            <div class="custom-control custom-switch"> 
                 <input type="checkbox" class="custom-control-input" id="price3">
                 <label class="custom-control-label" for="price3">50$ - 100$</label>
             </div>
@@ -193,11 +193,11 @@
                     <h2 class="text-center">Mentors </h2>
                     <p class="text-center">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae.</p>
                 </div>
-                <div class="row people">
+                <div class="row people" id="cardSpace">
                     <div class="col-md-6 col-lg-4 item">
-                        <div class="box"> <a href="./profile.html "><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/75.jpg"></a> 
-                            <h3 class="name"><a id="link" href="profile.html">Ben Johnson</a></h3>
-                            <p class="title">Musician</p>
+                        <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/75.jpg">
+                            <h3 class="name">Ben Johnson</h3>
+                            <p class="title">Data Science</p>
                             <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
                             <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
                         </div>
@@ -205,7 +205,7 @@
                     <div class="col-md-6 col-lg-4 item">
                         <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/10.jpg">
                             <h3 class="name">Emily Clark</h3>
-                            <p class="title">Artist</p>
+                            <p class="title">Copywriting</p>
                             <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
                             <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
                         </div>
@@ -213,28 +213,45 @@
                     <div class="col-md-6 col-lg-4 item">
                         <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/15.jpg">
                             <h3 class="name">Carl Kent</h3>
-                            <p class="title">Stylist</p>
+                            <p class="title">Bootstrapping</p>
                             <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
                             <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
                         </div>
                     </div>
 
-                    <div class="col-md-6 col-lg-4 item">
+                    <div class="col-md-6 col-lg-4 item Bootstrapping">
                         <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/40.jpg">
                             <h3 class="name">Ben Johnson</h3>
-                            <p class="title">Musician</p>
+                            <p class="title">Bootstrapping</p>
+                            <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                            <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 item Bootstrapping">
+                        <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/60.jpg">
+                            <h3 class="name">Ben Johnson</h3>
+                            <p class="title">Conversion rate optimisation</p>
                             <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
                             <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 item">
-                        <div class="box"><img class="rounded-circle" src="https://randomuser.me/api/portraits/med/men/60.jpg">
-                            <h3 class="name">Ben Johnson</h3>
-                            <p class="title">Musician</p>
-                            <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                        <div class="box"><img class="rounded-circle" src="./lib/img/noimage.png" alt="IMG">
+                            <h3 class="name">Zen Johnson</h3>
+                            <p class="title">Conversion rate optimisation</p>
+                            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis quae, aperiam, nemo facere esse incidunt voluptate praesentium vel totam quod corrupti optio. Velit et illo nesciunt quibusdam doloribus, aliquid reprehenderit.. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
                             <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
                         </div>
                     </div>
+                    <div class="col-md-6 col-lg-4 item">
+                        <div class="box"><img class="rounded-circle" src="./lib/img/noimage.png" alt="IMG">
+                            <h3 class="name">Stojance Stojancevski</h3>
+                            <p class="title">Design / UX</p>
+                            <p class="description">Lorem ipsum dolor sit amet consectetur adipisicing elit.  nemo facere esse incidunt voluptate praesentium vel totam quod corrupti optio. doloribus, aliquid reprehenderit.. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
+                            <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
+                        </div>
+                    </div>
+
 
 
                 </div>
@@ -250,5 +267,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
     <script src="lib/js/main.js"></script>
+    
+
 </body>
 </html>
