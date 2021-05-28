@@ -2,10 +2,7 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
-#link{
-  text-decoration: none;
-  color: #313437;
-}
+
 body {
     margin: 0;
     padding: 0;
@@ -88,8 +85,6 @@ body {
     letter-spacing: 1px;
 }
 
-
-
 /* Mentors  cards */
 .team-boxed {
     color:#313437;
@@ -106,7 +101,7 @@ body {
     padding-top:40px;
     color:inherit;
   }
-
+  
   @media (max-width:767px) {
     .team-boxed h2 {
       margin-bottom:25px;
