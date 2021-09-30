@@ -1,0 +1,17 @@
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.Services.deps.json
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.Services.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.Services.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.DataAccess.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.DataModels.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.Models.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.DataAccess.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.DataModels.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\bin\Debug\netcoreapp3.1\Psyent.Models.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.csproj.AssemblyReference.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.AssemblyInfoInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.AssemblyInfo.cs
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.csproj.CoreCompileInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.csproj.CopyComplete
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Services\obj\Debug\netcoreapp3.1\Psyent.Services.pdb

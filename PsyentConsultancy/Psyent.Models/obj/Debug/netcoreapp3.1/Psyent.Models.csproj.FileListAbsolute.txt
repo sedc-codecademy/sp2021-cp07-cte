@@ -1,0 +1,10 @@
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\bin\Debug\netcoreapp3.1\Psyent.Models.deps.json
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\bin\Debug\netcoreapp3.1\Psyent.Models.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\bin\Debug\netcoreapp3.1\Psyent.Models.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.csproj.AssemblyReference.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.AssemblyInfoInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.AssemblyInfo.cs
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.csproj.CoreCompileInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Models\obj\Debug\netcoreapp3.1\Psyent.Models.pdb

@@ -1,0 +1,16 @@
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataAccess.deps.json
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataAccess.runtimeconfig.json
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataAccess.runtimeconfig.dev.json
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataAccess.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataAccess.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataModels.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\bin\Debug\netcoreapp3.1\Psyent.DataModels.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.csproj.AssemblyReference.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.AssemblyInfoInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.AssemblyInfo.cs
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.csproj.CopyComplete
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.pdb
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.DataAccess\obj\Debug\netcoreapp3.1\Psyent.DataAccess.genruntimeconfig.cache
