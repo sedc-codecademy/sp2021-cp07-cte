@@ -1,10 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Psyent.Services.Helpers
+﻿namespace Psyent.Services.Helpers
 {
-    class AppSettings
+    public class AppSettings
     {
+        public string PsyentConnectionString { get; set; }
+        public string Secret { get; set; }
     }
 }

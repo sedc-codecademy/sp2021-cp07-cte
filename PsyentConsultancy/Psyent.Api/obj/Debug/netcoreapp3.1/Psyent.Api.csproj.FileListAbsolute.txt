@@ -56,3 +56,8 @@ C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\obj\Debug\netcoreapp3.1\Psye
 C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\obj\Debug\netcoreapp3.1\Psyent.Api.dll
 C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\obj\Debug\netcoreapp3.1\Psyent.Api.pdb
 C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\obj\Debug\netcoreapp3.1\Psyent.Api.genruntimeconfig.cache
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\coa85\Desktop\PsyentConsultancy\Psyent.Api\obj\Debug\netcoreapp3.1\Psyent.Api.MvcApplicationPartsAssemblyInfo.cs
